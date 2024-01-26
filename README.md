@@ -1,5 +1,7 @@
 # Wordpress website
 Corporate portal website example.
+## Website files
+[Download files](https://drive.google.com/file/d/1zENDR8dn6iwQ5s_qHwxskT-0fNI2IN6J/view?usp=sharing)
 ## Plugins & Theme
 **Theme:** Zakra<br><br>
 **Installed plugins:**
